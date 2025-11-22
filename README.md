@@ -3,5 +3,5 @@ My thesis investigates the intersection of accuracy, privacy, and energy efficie
 
 This work is published as:
 
-Sokorelis, E., Karakasidis, A., Protopapadakis, E., & Kiourt, C. (2026). An Evaluation Of Energy Consumption For Deep Learning-Based Privacy Preserving Record Linkage. In P. K. Chrysanthis, K. Nørvåg, K. Stefanidis, Z. Zhang, E. Quintarelli, & E. Zumpano (Eds.), New Trends In Database And Information Systems. ADBIS 2025 (Communications in Computer and Information Science, Vol. 2676). Springer, Cham. https://link.springer.com/chapter/10.1007/978-3-032-05727-3_17
+Sokorelis, E., Karakasidis, A., Protopapadakis, E., & Kiourt, C. (2026). An evaluation of energy consumption for deep learning-based privacy preserving record linkage. In P. K. Chrysanthis, K. Nørvåg, K. Stefanidis, Z. Zhang, E. Quintarelli, & E. Zumpano (Eds.), New trends in database and information systems. ADBIS 2025 (Communications in Computer and Information Science, Vol. 2676). Springer. https://link.springer.com/chapter/10.1007/978-3-032-05727-3_17
 
